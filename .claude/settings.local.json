@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze:*)",
+      "Bash(flutter pub:*)",
+      "Read(//c/Users/admin/Downloads/qt/IconKitchen-Output \\(2\\)/**)",
+      "Bash(find \"C:/Users/admin/Downloads/qt/IconKitchen-Output \\(2\\)/\" -type f)",
+      "Bash(SRC=\"C:/Users/admin/Downloads/qt/IconKitchen-Output \\(2\\)/ios\" DST=\"C:/Users/admin/QT/grace_garden/ios/Runner/Assets.xcassets/AppIcon.appiconset\" __NEW_LINE_1d46502de61c1115__ cp \"$SRC/\"*.png \"$DST/\" cp \"$SRC/Contents.json\" \"$DST/Contents.json\" echo \"iOS icons copied\" ls \"$DST/\")",
+      "Bash(flutter build:*)",
+      "Bash(SRC=\"C:/Users/admin/Downloads/qt/IconKitchen-Output \\(2\\)/android/res\")",
+      "Bash(DST=\"C:/Users/admin/QT/grace_garden/android/app/src/main/res\")",
+      "Bash(__NEW_LINE_48d88831da4dfc47__ for:*)",
+      "Bash(do)",
+      "Bash(cp \"$SRC/$density/ic_launcher_monochrome.png\" \"$DST/$density/ic_launcher_monochrome.png\")",
+      "Bash(grep -n \"^\\\\s*\\\\],$\\\\|^\\\\s*\\),\\\\s*$\\\\|^  }\" \"C:/Users/admin/QT/grace_garden/lib/features/home/home_screen.dart\")",
+      "Bash(python -c \":*)",
+      "Bash(python3 -c \":*)",
+      "Bash(grep -E \"\\\\.\\(dart\\)$\")"
+    ]
+  }
+}

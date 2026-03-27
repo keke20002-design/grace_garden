@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594758219681",
+    "project_id": "gracegarden-957a4",
+    "storage_bucket": "gracegarden-957a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594758219681:android:50c00ca754b129144d3de0",
+        "android_client_info": {
+          "package_name": "com.gracegarden.grace_garden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBrX0kyNKYN1ONhH0VQwo3Ci3VrsZ0d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
